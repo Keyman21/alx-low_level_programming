@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-char c[] = "main";
+char c[] = "_putchar";
 int var;
 
 for (var = 0; var <= 8; var++)

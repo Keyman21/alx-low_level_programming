@@ -6,7 +6,7 @@
 *
 **/
 
-int _isalpha(int c)
+void print_alphabet_x10(void)
 		{
 		if ((c  >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
                 {	        			

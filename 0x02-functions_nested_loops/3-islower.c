@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <ctype.h>
 /**
 * _islower - Funcion check if c is lowercase.

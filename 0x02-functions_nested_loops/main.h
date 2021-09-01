@@ -10,3 +10,4 @@ void jack_bauer(void);
 int print_last_digit(int number);
 int _abs(int number);
 void print_times_table(int n);
+int main(void);
